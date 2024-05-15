@@ -1,7 +1,7 @@
 # Hello!<br>
 Das ist mein erstes Repository-Beispiel.
 
-Hello Tom! 
+Hello Tom!
 ### Das ist mein $a^2$ erstes Repository-Beispiel.
 
 $$
@@ -16,6 +16,6 @@ $$
 x^2
 $$
 
-| Name | Alter | Nation. | 
+| Name | Alter | Nation. |
 | :--- | ----: | :---:|
 | Odlo | 13 | CH |
