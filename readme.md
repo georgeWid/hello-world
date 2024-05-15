@@ -1,7 +1,7 @@
 # Hello!<br>
 Das ist mein erstes Repository-Beispiel.
 
-Hello! 
+Hallo! 
 ### Das ist mein $a^2$ erstes Repository-Beispiel.
 
 $$
