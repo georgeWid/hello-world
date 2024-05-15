@@ -4,7 +4,7 @@ Das ist mein erstes Repository-Beispiel.
 Hello Peter!
 ### Das ist mein $a^2$ erstes Repository-Beispiel.
 
-![Relative](/bsfh_ict.png)
+![Relative](/bsfh_ict.png =10x25)
 
 $$
 \displaystyle
