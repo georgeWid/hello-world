@@ -4,8 +4,7 @@ Das ist mein erstes Repository-Beispiel.
 Hello Peter!
 ### Das ist mein $a^2$ erstes Repository-Beispiel.
 
-
-<img src="bsfh_ict.png" alt="drawing" style="width:200px;"/>
+<img src="bsfh_ict.png" alt="drawing" style="width:100px;"/>
 
 $$
 \displaystyle
