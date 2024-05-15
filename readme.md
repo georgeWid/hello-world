@@ -4,6 +4,8 @@ Das ist mein erstes Repository-Beispiel.
 Hello Peter!
 ### Das ist mein $a^2$ erstes Repository-Beispiel.
 
+!(/bsfh_ict.png)
+
 $$
 \displaystyle
 \left( \sum_{k=1}^n a_k b_k \right)^2
