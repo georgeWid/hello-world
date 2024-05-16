@@ -1,7 +1,7 @@
 # Hello!<br>
 Das ist mein erstes Repository-Beispiel.
 
-Hello Peter!
+Hello Georg!
 ### Das ist mein $a^2$ erstes Repository-Beispiel.
 
 <img src="bsfh_ict.png" alt="drawing" style="width:100px;"/>
