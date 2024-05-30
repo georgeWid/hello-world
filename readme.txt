@@ -1,2 +1,2 @@
 Hello!
-Das ist mein fünftes Repository-Beispiel.
+Das ist mein 6. Repository-Beispiel.
